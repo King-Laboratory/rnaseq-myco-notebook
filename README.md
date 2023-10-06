@@ -54,6 +54,8 @@ Our notebooks include a notebook that uses R code, so check the 'R' framework. T
 
 Creating a machine may take a few minutes to finish.
 
+(Update: As of 10/05/23, Google Cloud has released support for Debian 11 for vertex-ai notebooks, however user-managed Debian 11 vertex-ai notebooks do not yet have a premade 'R' environment available as a selection during notebook creation. If there is no 'R' environment available for creation for your notebook, try setting the OS to Debian 10, and the R 4.2 environment should be available.)
+
 ![RNA-Seq workflow](images/newnotebook2.png)
 
 ### Starting Your Virtual Machine
